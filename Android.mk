@@ -222,6 +222,7 @@ GECKO_LIB_DEPS := \
 	libmedia.so \
 	libstagefright.so \
 	libstagefright_omx.so \
+	libsuspend.so \
 	libdbus.so \
 	libsensorservice.so \
 	libsysutils.so \
